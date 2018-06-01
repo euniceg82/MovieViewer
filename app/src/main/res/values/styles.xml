@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TvContent" parent="AppTheme">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="TvTitle" parent="AppTheme">
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="DropDownText" parent="AppTheme">
+        <item name="android:inputType">text</item>
+        <item name="android:textSize">@dimen/activity_dropdown</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:drawableRight">@drawable/ic_keyboard_arrow_down_gray_24dp</item>
+        <item name="android:cursorVisible">false</item>
+    </style>
+
+</resources>

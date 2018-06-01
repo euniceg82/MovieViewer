@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MovieViewer</string>
+
+    <!--movieDetails-->
+    <string name="title_name">Name:</string>
+    <string name="title_genre">Genre:</string>
+    <string name="title_rating">Advisory Rating:</string>
+    <string name="title_duration">Duration:</string>
+    <string name="title_release_date">Release Date:</string>
+    <string name="title_synopsis">Synopsis:</string>
+    <string name="title_cast">Cast:</string>
+    <string name="title_theatre">Theatre:</string>
+    <string name="action_seat_map">View Seat Map</string>
+
+    <string name="title_date">Date</string>
+    <string name="title_cinema">Cinema</string>
+    <string name="title_time">Time</string>
+
+    <string name="title_available">Available</string>
+    <string name="title_reserved">Reserved</string>
+    <string name="title_selected">Selected</string>
+
+    <string name="title_selected_seats">Your selected seats:</string>
+    <string name="title_total">Total</string>
+
+    <string name="warning_unavailable">No available time slot</string>
+    <string name="warning_cinema_empty">No available Cinema</string>
+    <string name="warning_date_empty">No available Date</string>
+    <string name="warning_full">Up to 10 seats per transaction only</string>
+    <string name="warning_select_sched">You need to select a schedule first</string>
+
+</resources>
